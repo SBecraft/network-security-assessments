@@ -48,6 +48,7 @@ network-security-assessments/
 ├── project-name/
 │   ├── FINDINGS-SUMMARY.md
 │   ├── vulnerability-report.docx
+│   ├── vulnerability-report.md
 │   └── scans/
 │       ├── before/
 │       └── after/
