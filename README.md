@@ -45,12 +45,14 @@ learning in the network security field.
 
 ```text
 network-security-assessments/
-├── assessment-name/
-│   ├── assessment-report.docx
+├── project-name/
+│   ├── FINDINGS-SUMMARY.md
+│   ├── vulnerability-report.docx
 │   └── scans/
 │       ├── before/
 │       └── after/
 ```
+
 
 
 ## License
